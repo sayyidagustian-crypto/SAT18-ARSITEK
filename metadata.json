@@ -1,0 +1,5 @@
+{
+  "name": "SAT18 Interactive Prototype",
+  "description": "An interactive UI prototype for the SAT18 note-taking and sketching application, demonstrating the core user flow from dashboard to editor.",
+  "requestFramePermissions": []
+}
